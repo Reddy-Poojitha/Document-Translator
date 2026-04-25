@@ -122,7 +122,7 @@ project/
 └── README.md
 ▶️ Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/yourusername/document-translator.git
+gh repo clone Reddy-Poojitha/Document-Translator
 cd document-translator
 2️⃣ Install Dependencies
 pip install -r requirements.txt
